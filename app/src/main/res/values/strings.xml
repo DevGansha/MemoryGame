@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+
+    <string name="start">Let\'s get started, Select your level</string>
+    <string name="level">Your Level is</string>
+    <string name="start_game">Start</string>
+    <string name="end_game">End Game</string>
+    <string name="play_again">Play Again</string>
+    <string name="submit">Submit</string>
+    <string name="total">Total</string>
+    <string name="correct">Correct</string>
+    <string name="wrong">Wrong</string>
+
+
+</resources>
